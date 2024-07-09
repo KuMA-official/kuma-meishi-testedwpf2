@@ -1,1 +1,0 @@
-# kuma-meishi-testedwpf2
